@@ -1,7 +1,7 @@
 <h2 align="center">👋 欢迎</h2>
 
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
+<img align='right' src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="230">
 
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
