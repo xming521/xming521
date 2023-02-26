@@ -13,9 +13,9 @@
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![typeScript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=typeScript&logoColor=white&labelColor=8E2DE2)
+![typeScript](https://img.shields.io/badge/-typeScript-grey?style=for-the-badge&logo=typeScript&logoColor=white&labelColor=8E2DE2)
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
-![go](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
+![go](https://img.shields.io/badge/-go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
 
 
 ![pytorch](https://img.shields.io/badge/-pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)
