@@ -17,7 +17,6 @@
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![go](https://img.shields.io/badge/-go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
 
-
 ![pytorch](https://img.shields.io/badge/-pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)
 ![tensorflow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)
 ![opencv](https://img.shields.io/badge/-opencv-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)
@@ -31,7 +30,6 @@
 
 ![vue](https://img.shields.io/badge/-Vue.js-grey?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=8E2DE2)
 ![echarts](https://img.shields.io/badge/-echarts-grey?style=for-the-badge&logo=apacheecharts&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
 <div style='margin-right:5vw;'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xming521&bg_color=ffffff00&text_color=666666&hide=prs,contribs&show_icons=true" />
