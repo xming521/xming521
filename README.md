@@ -4,10 +4,14 @@
 <img align='right' src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="350">
 
 ## 主要技术栈   
-- 😄**后端** Falsk, FastApi
-- 😃**前端** Vue3, Nuxt3, Element-UI
-- 😆**数据库** MySQL
-- 😝**AI** PyTorch, TensorFlow
+- 😄	使用语言：Python(熟练)/TypeScript(了解)/Scala(了解)
+-	😃大数据及分布式（熟悉）：Hadoop/Spark/HBase
+-	😆AI模型训练及推理（熟悉）：PyTorch/TensorRT/Triton
+-	😝前后端及中间件（了解）：Vue/Nuxt/FastApi/Flask/MySQL/SQLite
+-	😊CI/CD及其他：Git/Github Actions/Azure DevOps/Linux/Docker
+-	🥰云服务: 阿里云/腾讯云/Azure
+-	🤖AI生产力：GitHub Copilot/ChatGPT/New Bing
+
 
 <h3 align="left">Languages and Tools:</h3>
 
