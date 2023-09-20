@@ -1,9 +1,11 @@
 <h2 align="center">👋 欢迎</h2>
 
 
-<img align='right' src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="350">
+
 
 ## 主要技术栈   
+<img align='right' src="https://github.com/xming521/xming521/assets/32786500/778d5d50-8b38-401f-a77f-98e044b479f5" width="350">
+
 - 😄	使用语言：Python(熟练)/TypeScript(了解)/Scala(了解)
 -	😃大数据及分布式（熟悉）：Hadoop/Spark/HBase
 -	😆AI模型训练及推理（熟悉）：PyTorch/TensorRT/Triton
