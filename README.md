@@ -6,10 +6,10 @@
 ## 主要技术栈   
 <img align='right' src="https://github.com/xming521/xming521/assets/32786500/778d5d50-8b38-401f-a77f-98e044b479f5" width="350">
 
-- 😄	使用语言：Python(熟练)/TypeScript(了解)/Scala(了解)
--	😃大数据及分布式（熟悉）：Hadoop/Spark/HBase
--	😆AI模型训练及推理（熟悉）：PyTorch/TensorRT/Triton
--	😝前后端及中间件（了解）：Vue/Nuxt/FastApi/Flask/MySQL/SQLite
+- 😄	使用语言：Python
+-	😃大数据及分布式：Hadoop/Spark/HBase
+-	😆AI模型训练及推理：PyTorch/TensorRT/Triton
+-	😝前后端及中间件：Vue/Nuxt/FastApi/Flask/MySQL/SQLite
 -	😊CI/CD及其他：Git/Github Actions/Azure DevOps/Linux/Docker
 -	🥰云服务: 阿里云/腾讯云/Azure
 -	🤖AI生产力：GitHub Copilot/ChatGPT/New Bing
