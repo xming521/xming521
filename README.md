@@ -1,19 +1,17 @@
-<h3 align="center">👋 欢迎</h3>
+<h3 align="center">👋 Welcome</h3>
 
-<h2 align="center"> 做提供感情价值、情绪价值的产品</h2>
+<h2 align="center">Creating Products That Provide Emotional Value</h2>
 
-
-
-## 主要技术栈   
+## Main Tech Stack
 <img align='right' src="https://github.com/xming521/xming521/assets/32786500/778d5d50-8b38-401f-a77f-98e044b479f5" width="350">
 
-- 😄	使用语言：Python
--	😃大数据及分布式：Hadoop/Spark/HBase
--	😆AI模型训练及推理：PyTorch/TensorRT/Triton
--	😝前后端及中间件：Vue/Nuxt/FastApi/Flask/MySQL/SQLite
--	😊CI/CD及其他：Git/Github Actions/Azure DevOps/Linux/Docker
--	🥰云服务: 阿里云/腾讯云/Azure
--	🤖AI生产力：GitHub Copilot/ChatGPT/New Bing
+- 😄 Programming Language: Python
+- 😃 Big Data & Distributed Systems: Hadoop/Spark/HBase
+- 😆 AI Model Training & Inference: PyTorch/TensorRT/Triton
+- 😝 Frontend, Backend & Middleware: Vue/Nuxt/FastApi/Flask/MySQL/SQLite
+- 😊 CI/CD & Others: Git/Github Actions/Azure DevOps/Linux/Docker
+- 🥰 Cloud Services: Alibaba Cloud/Tencent Cloud/Azure
+- 🤖 AI Productivity: GitHub Copilot/ChatGPT/New Bing
 
 
 <h3 align="left">Languages and Tools:</h3>
