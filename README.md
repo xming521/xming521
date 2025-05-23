@@ -1,6 +1,8 @@
 <h3 align="center">👋 Welcome</h3>
 
 <h2 align="center">Creating Products That Provide Emotional Value</h2>
+<h3 align="center">做提供情绪价值、感情价值的产品</h3>
+
 
 ## Main Tech Stack
 <img align='right' src="https://github.com/xming521/xming521/assets/32786500/778d5d50-8b38-401f-a77f-98e044b479f5" width="350">
