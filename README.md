@@ -5,7 +5,7 @@
 
 
 ## Main Tech Stack
-<img align='right' src="https://github.com/xming521/xming521/assets/32786500/778d5d50-8b38-401f-a77f-98e044b479f5" width="350">
+
 
 - 😄 Programming Language: Python
 - 😃 Big Data & Distributed Systems: Hadoop/Spark/HBase
